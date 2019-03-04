@@ -1,0 +1,23 @@
+project/target
+target
+.idea
+#---vim
+*.swp
+#------
+
+#---eclipse
+/bin/
+.cache-main
+.cache-tests
+.classpath
+.project
+.settings/
+#---------
+
+#--intellij
+*.iml
+#---------
+
+# SCoverage
+scoverage-report
+testreport
